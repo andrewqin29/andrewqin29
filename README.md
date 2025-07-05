@@ -1,4 +1,9 @@
-## Hi there 👋
+### hello
+
+my name is andrew qin and i'm a sophomore at caltech studying computer science and math. i like to build neat things sometimes.
+
+linkedin: https://www.linkedin.com/in/andrewsqin/
+email: asqin@caltech.edu
 
 <!--
 **andrewqin29/andrewqin29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
